@@ -27,6 +27,8 @@ A Apache kafka example with Spring boot. This project requires/depends upon:-
   <li>Use the sample curl to verify the messaging</li>
 </ol>
 
+![Sample](https://github.com/iamnav/spring-boot-kafka-example/blob/main/Kafka%20Producer-Consumer.PNG)
+
 
 ## Producer publish curl
 `curl --location --request POST 'localhost:8081/kafka/publish' \
