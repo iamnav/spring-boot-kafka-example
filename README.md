@@ -21,6 +21,7 @@ A Apache kafka example with Spring boot. This project requires/depends upon:-
 
 ## How to Run
 <ol>
+  <li>Copy the contents of "kafka" to C:</li>
   <li>Use the commands to run apache kafka located [here](https://github.com/iamnav/spring-boot-kafka-example/blob/main/kafka/Run%20commands.txt) </li>
   <li>Start the Producer (Port 8081) and Consumer (Port 8082) locally</li>
   <li>Use the sample curl to verify the messaging</li>
