@@ -28,7 +28,7 @@ A Apache kafka example with Spring boot. This project requires/depends upon:-
 </ol>
 
 
-<img src="https://github.com/iamnav/spring-boot-kafka-example/blob/main/Kafka%20Producer-Consumer.PNG" width="100">
+<img src="https://github.com/iamnav/spring-boot-kafka-example/blob/main/Kafka%20Producer-Consumer.PNG" width="10000">
 
 
 ## Producer publish curl
